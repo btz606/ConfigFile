@@ -1,0 +1,25 @@
+扩展插件：
+auto close tag
+auto rename tag
+beautify
+color hightlight
+color pick
+debugger for chorme
+document this
+eslint
+guides
+poping and locking theme
+view in browser
+vscode-icons
+
+配置项：
+    "workbench.iconTheme": "vscode-icons",// 图标
+    "editor.renderIndentGuides": false,
+    "editor.fontFamily": "'Consolas', 'Consolas', 'Consolas'", // 字体
+    "editor.fontWeight": "600", // 字体增粗
+    "workbench.colorTheme": "Popping and Locking",
+    "window.zoomLevel": -1, // 整体页面缩小，编辑区放大的配置
+    "editor.fontSize": 18, // 同上
+    "window.menuBarVisibility": "toggle", // 隐藏菜单栏
+    "editor.detectIndentation": false, // 用于vue项目格式化时缩进不起作用的解决方法
+    "vetur.format.defaultFormatter.html": "js-beautify-html" // vue项目格式化html
