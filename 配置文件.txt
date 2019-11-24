@@ -1,4 +1,4 @@
-À©Õ¹²å¼ş£º
+æ‰©å±•æ’ä»¶ï¼š
 auto close tag
 auto rename tag
 beautify
@@ -12,14 +12,17 @@ poping and locking theme
 view in browser
 vscode-icons
 
-ÅäÖÃÏî£º
-    "workbench.iconTheme": "vscode-icons",// Í¼±ê
+ES7 React/Redux/GraphQL/React-Native snippets
+
+
+é…ç½®é¡¹ï¼š
+    "workbench.iconTheme": "vscode-icons",// å›¾æ ‡
     "editor.renderIndentGuides": false,
-    "editor.fontFamily": "'Consolas', 'Consolas', 'Consolas'", // ×ÖÌå
-    "editor.fontWeight": "600", // ×ÖÌåÔö´Ö
+    "editor.fontFamily": "'Consolas', 'Consolas', 'Consolas'", // å­—ä½“
+    "editor.fontWeight": "600", // å­—ä½“å¢ç²—
     "workbench.colorTheme": "Popping and Locking",
-    "window.zoomLevel": -1, // ÕûÌåÒ³ÃæËõĞ¡£¬±à¼­Çø·Å´óµÄÅäÖÃ
-    "editor.fontSize": 18, // Í¬ÉÏ
-    "window.menuBarVisibility": "toggle", // Òş²Ø²Ëµ¥À¸
-    "editor.detectIndentation": false, // ÓÃÓÚvueÏîÄ¿¸ñÊ½»¯Ê±Ëõ½ø²»Æğ×÷ÓÃµÄ½â¾ö·½·¨
-    "vetur.format.defaultFormatter.html": "js-beautify-html" // vueÏîÄ¿¸ñÊ½»¯html
+    "window.zoomLevel": -1, // æ•´ä½“é¡µé¢ç¼©å°ï¼Œç¼–è¾‘åŒºæ”¾å¤§çš„é…ç½®
+    "editor.fontSize": 18, // åŒä¸Š
+    "window.menuBarVisibility": "toggle", // éšè—èœå•æ 
+    "editor.detectIndentation": false, // ç”¨äºvueé¡¹ç›®æ ¼å¼åŒ–æ—¶ç¼©è¿›ä¸èµ·ä½œç”¨çš„è§£å†³æ–¹æ³•
+    "vetur.format.defaultFormatter.html": "js-beautify-html" // vueé¡¹ç›®æ ¼å¼åŒ–html
