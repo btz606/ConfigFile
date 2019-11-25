@@ -12,6 +12,9 @@ poping and locking theme
 view in browser
 vscode-icons
 
+Path Intellisense
+
+
 ES7 React/Redux/GraphQL/React-Native snippets
 
 
