@@ -29,3 +29,7 @@ ES7 React/Redux/GraphQL/React-Native snippets
     "window.menuBarVisibility": "toggle", // 隐藏菜单栏
     "editor.detectIndentation": false, // 用于vue项目格式化时缩进不起作用的解决方法
     "vetur.format.defaultFormatter.html": "js-beautify-html" // vue项目格式化html
+
+
+
+dasdasda
