@@ -1,7 +1,13 @@
-扩展插件：
+扩展插件：master
 auto close tag
 auto rename tag
 beautify
+
+
+
+master
+
+
 color hightlight
 color pick
 debugger for chorme
