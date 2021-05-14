@@ -1,0 +1,37 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "window.menuBarVisibility": "toggle",
+  "[javascript]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.sideBar.location": "right",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.associations": {
+      "*.js": "javascriptreact"
+  },
+  "[typescriptreact]": {},
+  "terminal.integrated.rendererType": "dom",
+  "editor.tabSize": 2,
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "window.autoDetectHighContrast": false,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "git.ignoreWindowsGit27Warning": true,
+  "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.colorTheme": "Dracula",
+  "editor.fontSize": 16,
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": -1,
+  "[jsonc]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "redhat.telemetry.enabled": true
+}
